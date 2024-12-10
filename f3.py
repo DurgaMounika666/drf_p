@@ -1,1 +1,6 @@
 print("welcome!")
+print("welcome!")
+print("welcome!")
+print("To my Practice session")
+print("To my Practice session")
+print("To my Practice session")
