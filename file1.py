@@ -1,0 +1,6 @@
+print("Practise")
+print("Practise")
+print("Practise")
+print("Session")
+print("Session")
+print("Session")
